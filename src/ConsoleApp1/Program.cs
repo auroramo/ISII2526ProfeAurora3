@@ -8,8 +8,6 @@ void Cocinar ()
     Console.WriteLine("Cocinando paella...");
 }
 
-int atributo1 = 1;
-
 void Comer ()
 {
     Console.WriteLine("Comiendo paella...");
