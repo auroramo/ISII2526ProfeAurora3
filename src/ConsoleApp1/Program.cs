@@ -12,3 +12,8 @@ void comer ()
 {
     Console.WriteLine("Comiendo paella....");
 }
+
+void siesta()
+{
+
+}
