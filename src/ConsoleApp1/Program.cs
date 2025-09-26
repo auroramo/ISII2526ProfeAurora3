@@ -13,6 +13,12 @@ void comer ()
     Console.WriteLine("Comiendo paella....");
 }
 
+void postre ()
+{
+
+}
+}
+
 void siesta()
 {
 
