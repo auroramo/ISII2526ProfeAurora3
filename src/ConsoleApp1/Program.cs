@@ -3,6 +3,11 @@ Console.WriteLine("Hello, World! I come from Spain. ¡Qué rica la paella de ver
 
 int atributo1 = 1;
 
+void Prueba()
+{
+    Console.WriteLine("Hola, mundo");
+}
+
 void Cocinar ()
 {
     Console.WriteLine("Cocinando paella...");
@@ -12,3 +17,5 @@ void Comer ()
 {
     Console.WriteLine("Comiendo paella...");
 }
+
+
