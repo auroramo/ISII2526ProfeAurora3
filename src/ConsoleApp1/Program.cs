@@ -14,3 +14,7 @@ void Comer ()
 }
 
 
+void Comer2 ()
+{
+    Console.WriteLine("Comiendo paella...");
+}
