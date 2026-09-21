@@ -14,7 +14,7 @@ void Comer ()
 }
 
 
-void Comer3 ()
+void Comer3b ()
 {
     Console.WriteLine("Comiendo paella...");
 }
