@@ -19,7 +19,7 @@ void Comer3b ()
     Console.WriteLine("Comiendo paella ....
 }
 
-void Comer5 ()
+void Comer4 ()
 {
     Console.WriteLine("Comiendo paella ....
 }
